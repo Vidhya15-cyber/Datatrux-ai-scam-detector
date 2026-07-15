@@ -80,16 +80,6 @@ python app.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Scam Detection Result
-- Login Page (if available)
-
----
-
 ## 📈 Future Enhancements
 
 - Browser Extension Support
